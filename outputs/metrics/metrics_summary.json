@@ -85,6 +85,6 @@
       }
     }
   },
-  "generated_at": "2026-04-20T15:31:05.251014+00:00",
+  "generated_at": "2026-04-20T15:45:21.779923+00:00",
   "notes": "Split trước, fit vectorizer trên train, evaluate trên val/test để tránh leakage."
 }
